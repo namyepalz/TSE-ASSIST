@@ -1,0 +1,5 @@
+tqdm==4.66.4
+pytse-client==0.18.0
+numpy==1.26.4
+openpyxl==3.1.2
+pandas==2.2.2
